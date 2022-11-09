@@ -12,5 +12,8 @@ console.log(`${num1} + ${num2} = ${soma}`)
 
 // Subtração:
 
-let subtrair = num1 - num2
-console.log(`${num1} - ${num2} = ${subtrair}`)
+let num3 = parseInt(-80)
+let num4 = parseInt(-3)
+
+let subtrair = num3 - num4
+console.log(`${num3} - (${num4}) = ${subtrair}`)
