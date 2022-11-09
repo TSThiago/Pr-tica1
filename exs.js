@@ -17,3 +17,11 @@ let num4 = parseInt(-3)
 
 let subtrair = num3 - num4
 console.log(`${num3} - (${num4}) = ${subtrair}`)
+
+// Divisão e Resto:
+
+let dividir = num1/num2
+let resto = num1%num2
+
+console.log(`${num1} / ${num2} = ${dividir}`)
+console.log(`${num1} % ${num2} = ${resto}`)
