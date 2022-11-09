@@ -9,3 +9,8 @@ let num2 = parseInt(3)
 
 let soma = num1 + num2
 console.log(`${num1} + ${num2} = ${soma}`)
+
+// Subtração:
+
+let subtrair = num1 - num2
+console.log(`${num1} - ${num2} = ${subtrair}`)
